@@ -1,0 +1,5 @@
+i used git bash and just type the command like this:
+
+./donut
+
+and done, you got 3d spining donut XD
